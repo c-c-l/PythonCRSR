@@ -11,7 +11,7 @@ def greet(lang) :
         print('Hello')
 
 print('Espagnol :')
-greet('en')
+greet('es')
 print('Anglais :')
 greet('en')
 print('Français :')
